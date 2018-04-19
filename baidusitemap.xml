@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/04/19/TE-20170527-6/</loc>
+    <lastmod>2018-04-18T16:14:47.800Z</lastmod>
+    <data>
+        <display>
+        <title>TE-20170527-6</title>
+        <pubTime>2018-04-18T16:14:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/04/18/hello-world/</loc>
+    <lastmod>2018-04-18T15:46:27.836Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-04-18T15:46:27.836Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
