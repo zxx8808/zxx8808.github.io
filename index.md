@@ -2,17 +2,17 @@
 
 - [Github](https://github.com/)
 - [蚁工厂](https://weibo.com/n/%E8%9A%81%E5%B7%A5%E5%8E%82)
-- [hellogithub](https://hellogithub.com/)
+- [HelloGithub](https://hellogithub.com/)
 
 ### English Info
 
 - [X](https://x.com)
-- [YC](https://news.ycombinator.com/news)
-- [lobste](https://lobste.rs/)
+- [Hacker News](https://news.ycombinator.com/news)
+- [Lobsters](https://lobste.rs/)
 - [BBC](https://www.bbc.com/)
-- [getpocket](https://getpocket.com/explore)
+- [Pocket](https://getpocket.com/explore)
 - [Youtube订阅](https://www.youtube.com/)
-- [TED-ed](https://www.ted.com/talks?q=ted-ed&sort=newest)
+- [TED-Ed](https://www.ted.com/talks?q=ted-ed&sort=newest)
 
 ### Blogs
 
